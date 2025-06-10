@@ -32,6 +32,7 @@ function dragOver(e) {
 
 function dragLeave(e){
     e.preventDefault();
+    this.classList.remove(over);
 }
 
 function dragDrop(e){

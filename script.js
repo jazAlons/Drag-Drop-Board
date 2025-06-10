@@ -6,3 +6,9 @@ for(const card of cards){
     card.addEventListener("dragend", dragEnd)
 }
 
+for(const list of lists){
+    list.addEventListener("dragover", dragOver)
+    list.addEventListener("dragenter", dragEnter)
+    list.addEventListener("dragleave",dragLeave)
+    list.addEventListener("drop", dragDrop)
+}

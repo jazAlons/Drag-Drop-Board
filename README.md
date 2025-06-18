@@ -14,7 +14,7 @@ A minimal and responsive Kanban board built with plain HTML, CSS, and JavaScript
 ![Detailed Board View](2.jpeg)
 
 ## Link
-https://resonant-cheesecake-d14c9b.netlify.app/
+dragdropboardjz.netlify.app
 
 
 
